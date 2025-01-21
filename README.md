@@ -1,13 +1,7 @@
 # FIT5202 - Data Processing for Big Data 2024 S2  
 ## Assignment 2A: Building Models for eCommerce Fraud Detection  
 
-### Due:  
-23:55, 20th September 2024 (End of Week 9)  
-
-### Worth:  
-15% of the final marks  
-
----
+--
 
 ## Background  
 In the dynamic world of eCommerce, **Monash Fashion Corporation (MFC)** has established itself as a leading online retailer of fashion products. While offering a seamless shopping experience, MFC faces significant risks due to increasing fraudulent activities. Traditional fraud detection methods are insufficient to combat sophisticated fraud tactics.  
